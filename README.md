@@ -28,8 +28,8 @@ Welcome to my GitHub profile! I’m passionate about gaming, coding, and creatin
 ---
 
 ### 📈 GitHub Stats
-![Lenny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LennyPegauOfficial&show_icons=true&theme=dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LennyPegauOfficial&layout=compact&theme=dark)
+![Lenny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Medicopter117&show_icons=true&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Medicopter117&layout=compact&theme=dark)
 
 ---
 
