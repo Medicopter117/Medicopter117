@@ -1,23 +1,33 @@
-<div id="badges" align="center">
+<div align="center">
 
-# Medicopter - LennyPegauOfficial
+# 🚁 Medicopter - LennyPegauOfficial
 
-<div id="badges" align="center">
-  <a href="[https://discord.com/users/790879003367571456](https://discord.gg/3rbVWaRTpD)">
-    <img alt="Discord" src="https://img.shields.io/discord/1097205376740499466?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=blue">
+[![Discord](https://img.shields.io/discord/1097205376740499466?style=for-the-badge&logo=discord&logoColor=white&label=Discord&color=5865F2)](https://discord.gg/3rbVWaRTpD)
 
-## Meine Tools
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains" alt="Jetbrains" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+---
 
-## Über mich
-Ich bin Lenny, ich code und zocke gerne und gucke gern Medicopter 117
+## 🛠️ Meine Tools
 
-## Stats
-  <br/>
-  <p align="center">
-    <a href="https://github.com/Medicopter117"><img alt="Medicopter's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Medicopter117&show_icons=true&count_private=true&theme=ayu-mirage" height="192px"/></a>
-  <br/>
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" style="margin: 0 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="48" height="48" style="margin: 0 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="48" height="48" style="margin: 0 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" title="JetBrains" width="48" height="48" style="margin: 0 10px;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" width="48" height="48" style="margin: 0 10px;" />
+</p>
+
+---
+
+## 👋 Über mich
+
+Ich bin **Lenny** – leidenschaftlicher Coder und Gamer, der total auf **Medicopter 117** steht. 🚁🔥
+
+---
+
+## 📊 Stats
+
+<a href="https://github.com/Medicopter117" target="_blank" rel="noopener noreferrer">
+  <img alt="Medicopter's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Medicopter117&show_icons=true&count_private=true&theme=ayu-mirage" height="192px" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);" />
+</a>
+
+</div>
