@@ -100,12 +100,12 @@
 
 | 🚀 **SKILL CATEGORY** | 🛠️ **TECHNOLOGIES** | 💎 **MASTERY LEVEL** | 🎯 **EXPERIENCE** |
 |------------------------|---------------------|----------------------|-------------------|
-| **🌐 Web Development** | HTML5, CSS3, Responsive Design | ⭐⭐⭐⭐⭐ | 3+ Jahre |
-| **🐍 Python Mastery** | Pycord, EzCord, Asyncio, OOP | ⭐⭐⭐⭐⭐ | 4+ Jahre |
-| **🗄️ Database Magic** | SQLite3, SQL Queries, DB Design | ⭐⭐⭐⭐ | 2+ Jahre |
-| **🤖 Bot Architecture** | Discord Bots, Slash Commands, Events | ⭐⭐⭐⭐⭐ | 4+ Jahre |
-| **⚙️ Development Tools** | VS Code, PyCharm, WebStorm, Git | ⭐⭐⭐⭐⭐ | 5+ Jahre |
-| **🎵 Audio Systems** | Music Bots, FFmpeg, Streaming | ⭐⭐⭐⭐⭐ | 3+ Jahre |
+| **🌐 Web Development** | HTML5, CSS3, Responsive Design | ⭐⭐⭐⭐ | 1+ Jahre |
+| **🐍 Python Mastery** | Pycord, EzCord, Asyncio, OOP | ⭐⭐⭐⭐ | 1+ Jahre |
+| **🗄️ Database Magic** | SQLite3, SQL Queries, DB Design | ⭐⭐⭐ | 1+ Jahre |
+| **🤖 Bot Architecture** | Discord Bots, Slash Commands, Events | ⭐⭐⭐ | 1+ Jahre |
+| **⚙️ Development Tools** | VS Code, PyCharm, WebStorm, Git | ⭐⭐⭐⭐ | 1+ Jahre |
+| **🎵 Audio Systems** | Music Bots, FFmpeg, Streaming | ⭐⭐⭐ | 5+ Monate |
 | **🚁 Helicopter Knowledge** | Medicopter 117 Trivia | ⭐⭐⭐⭐⭐ | Lifetime! |
 
 </div>
