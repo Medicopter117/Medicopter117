@@ -283,12 +283,11 @@ Services:
 ### 💬 **PILOT'S LOG - QUICK INTEL**
 
 ```yaml
-callsign: "Captain Lenny Steiger"
+callsign: "D-HECE"
 base: "Pegau Air Command, Sachsen"
 mission_focus: 
   - "Discord Bot Supremacy"
   - "Web Development Excellence" 
-  - "OPPRO.NET World Domination"
 off_duty_activities:
   - "Gaming like a Champion"
   - "Code Architecture Dreaming"
