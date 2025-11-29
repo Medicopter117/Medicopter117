@@ -187,9 +187,7 @@ Services:
 |----------------|-------------------|---------------|------------------|---------------|
 | **🎵 RadioBot** | 24/7 HD Audio Streaming Empire | 🟢 **LIVE & KICKING** | Pycord + EzCord + FFmpeg | ⭐⭐⭐⭐⭐ |
 | **🛠️ WebTools** | Developer Utility Command Center | 🟡 **BETA PHASE** | HTML/CSS + Python Backend | ⭐⭐⭐⭐ |
-| **📊 ServerStats** | Real-time Discord Analytics | 🟢 **PRODUCTION** | Pycord + SQLite3 + Charts | ⭐⭐⭐⭐⭐ |
-| **🎮 GameBot** | Interactive Gaming Experience | 🔴 **IN DEVELOPMENT** | EzCord + Asyncio Magic | ⭐⭐⭐⭐ |
-| **🚁 MediBot** | Medicopter 117 Tribute Bot | 🟠 **CONCEPT PHASE** | Pure Love + Pycord | ⭐⭐⭐⭐⭐ |
+| **🎮 ManagerX** | Interactive Gaming Experience | 🔴 **IN DEVELOPMENT** | EzCord  +Py-cord | ⭐⭐⭐⭐ |
 
 </div>
 
