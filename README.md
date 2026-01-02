@@ -28,7 +28,7 @@ Hey there! I'm **Lenny Steiger**, a passionate full-stack developer from Pegau, 
 
 **🎯 Current Focus:**
 - Building enterprise-grade Discord bots with advanced features
-- Scaling OPPRO.NET infrastructure and hosting services
+- Scaling OPPRO.NET infrastructure
 - Contributing to open-source projects and community growth
 - Developing innovative solutions for Discord communities
 
