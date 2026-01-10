@@ -10,7 +10,7 @@
   <a href="https://discord.gg/3rbVWaRTpD">
     <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="https://oppro.net">
+  <a href="https://oppro-network.de">
     <img src="https://img.shields.io/badge/OPPRO.NET-Visit%20Platform-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="OPPRO.NET" />
   </a>
   <a href="https://github.com/Oppro-net-Development/ManagerX">
